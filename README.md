@@ -4,10 +4,10 @@ Culture Framework is the base of all the [codetheculture](https://github.com/cod
 
 Some of it's features include:
 
-# Basic Dashboard Scaffold
-# User/Role System
-# Menu System for Dashboard
-# Notifications for Dashboard
+* Basic Dashboard Scaffold
+* User/Role System
+* Menu System for Dashboard
+* Notifications for Dashboard
 
 ## Installation
 
