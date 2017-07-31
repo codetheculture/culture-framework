@@ -2,4 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('backend', 'Culture\Framework\Http\Backend\DashboardController@index');
+Route::namespace('Culture\Framework\Http\Backend')->group(function () {
+    Route::get('backend', 'DashboardController@index');
+});
